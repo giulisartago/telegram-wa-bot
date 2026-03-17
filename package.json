@@ -1,0 +1,17 @@
+{
+  "name": "wa-bot-free",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.44",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
